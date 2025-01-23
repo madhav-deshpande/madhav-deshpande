@@ -4,7 +4,6 @@
 - 🌱 I’m learning advanced data architecture, AWS services, and big data technologies like Hadoop, Hive, Spark, and EMR.
 - 💞️ I want to collaborate on innovative data engineering projects, cloud solutions, and AI-driven data processing systems.
 - 📫 How to reach me: [rmadhav87@gmail.com](mailto:rmadhav87@gmail.com) | [LinkedIn](https://linkedin.com/in/bindumadhav-deshpande)
-- 😄 Pronouns: He/Him
 ⚡ Fun fact: I love working on large-scale cloud solutions, and in my spare time, I enjoy playing basketball and exploring the world of large language models (LLMs).
 
 ## Technical Skills:
